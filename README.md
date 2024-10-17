@@ -6,10 +6,7 @@
 
 `curl https://raw.githubusercontent.com/jwhittem/pop-setup/refs/heads/main/setup-zfs.sh | sudo bash`
 
-3. setup kvm
+3. setup packages
 
-`curl https://raw.githubusercontent.com/jwhittem/pop-setup/refs/heads/main/setup-kvm.sh | sudo bash`
+`curl https://raw.githubusercontent.com/jwhittem/pop-setup/refs/heads/main/setup-packages.sh | sudo bash`
 
-4. setup bridge device
-
-`curl https://raw.githubusercontent.com/jwhittem/pop-setup/refs/heads/main/setup-bridge.sh | sudo bash`
